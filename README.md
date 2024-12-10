@@ -1,4 +1,5 @@
 # JavaScript: Explorando o Poder da Web
+
 Bem-vindo ao repositório sobre a disciplina de **JavaScript**! Aqui, você encontrará tudo o que precisa para aprender e dominar uma das linguagens mais populares e essenciais do desenvolvimento web.
 
 ## O que é JavaScript?
