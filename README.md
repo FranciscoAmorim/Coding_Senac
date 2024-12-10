@@ -1,6 +1,7 @@
 ``` let nome = "Francisco";
 let cidade = "Recife";
-console.log(nome + " é de " + cidade + "."); 
+console.log(nome + " é de " + cidade + ".");
+```
 
 ## JavaScript: Explorando o Poder da Web.
 
