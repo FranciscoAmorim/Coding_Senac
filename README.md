@@ -1,4 +1,4 @@
-``` JavaScript: Explorando o Poder da Web
+``` JavaScript: Explorando o Poder da Web ```
 
 ## JavaScript: Explorando o Poder da Web.
 
